@@ -1,0 +1,5 @@
+[package]
+
+name = "vkrs"
+version = "0.0.1"
+authors = [ "tsukushibito <tsukushibito@gmail.com>" ]
